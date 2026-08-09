@@ -4,3 +4,7 @@ sum=a+b
 neg=a-b
 calc=a*b
 div=a/b
+print(sum)
+print(neg)
+print(calc)
+print(div)
